@@ -1,7 +1,7 @@
 # Font Collection
 
 An open source font collection for my daily usage with
-- code: [FiraCode](https://github.com/tonsky/FiraCode) 6.2
+- code: [FiraCode](https://github.com/tonsky/FiraCode) 6.2 and [NotoSansMonoCJK](https://github.com/notofonts/noto-cjk/tree/main/Sans/Variable/OTC)
 - sans: [source-han-sans](https://github.com/adobe-fonts/source-han-sans) Language Specific OTFs Simplified Chinese (简体中文) 2.004R
 - serif: [source-han-serif](https://github.com/adobe-fonts/source-han-serif) Language Specific OTFs Simplified Chinese (简体中文) 2.003
 
